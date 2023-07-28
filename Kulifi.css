@@ -1,0 +1,532 @@
+.box{
+    width: 100%;
+    height: 120px;
+}
+body{
+    margin: 0;
+}
+.b1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    width: 90%;
+    height: 34px;
+    float: left;
+    display: flex;
+    padding-bottom: 1px;
+    align-items: center;
+    justify-content: center;
+}
+#text{
+    margin-left: 150px;
+}
+.b2{
+    background-color: black;
+    width: 10%;
+    height: 35px;
+    float: left;
+}
+.b3{
+    background-color: white;
+    width: 50%;
+    height: 15%;
+    float: left;
+}
+.b4{
+    padding-top: 20px;
+    color: black;
+    display: flex;
+    align-items: start;
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    width: 50%;
+    height: 11.7%;
+    float: left;
+}
+.b4 h4{
+    padding: 0px 10px;
+}
+#lg{
+    height: 60px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.b4 i{
+    padding-top: 4%;
+
+}
+.b4 img{
+    padding-top: 3%;
+}
+#H{
+    color:#D1A155;
+    border-bottom: solid 2px;
+    padding: 0px 0px 5px 0px;
+    margin-right: 10px;
+}
+.SMCN{
+    width: 100%;
+    height: 150px;
+    background-color: cadetblue;
+}
+.SMCN h5{
+    font-family: 'Roboto', sans-serif;
+}
+.SMCN h6{
+    font-weight: 100;
+    opacity: 0.9;
+}
+.S{
+    width: 25%;
+    height: 150px;
+    background-color: white;
+    float: left;
+    color: black;
+   
+}
+.S1{
+    height: 100%;
+    width: 35%;
+    background-color: white;
+    float: left;
+}
+.S2{
+    height: 100%;
+    width: 65%;
+    background-color:  white;
+    float: left;
+    
+} 
+.S2 h5{
+    margin-top: 50px;
+    
+}
+#SS{
+    height: 60px;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.M{
+    width: 25%;
+    height: 150px;
+    background-color: white;
+    float: left;
+}
+.M1{
+    height: 100%;
+    width: 35%;
+    background-color: white;
+    float: left;
+}
+.M2{
+    height: 100%;
+    width: 65%;
+    background-color:  white;
+    float: left;
+    
+} 
+.M2 h5{
+    margin-top: 50px;
+    
+}
+#MM{
+    height: 60px;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.C{
+    width: 25%;
+    height: 150px;
+    background-color: white;
+    float: left;
+}
+.C1{
+    height: 100%;
+    width: 35%;
+    background-color: white;
+    float: left;
+}
+.C2{
+    height: 100%;
+    width: 65%;
+    background-color: white;
+    float: left;
+    
+} 
+.C2 h5{
+    margin-top: 50px;
+    
+}
+#CC{
+    height: 60px;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.N{
+    width: 25%;
+    height: 150px;
+    background-color: white;
+    float: left;
+}
+.N1{
+    height: 100%;
+    width: 35%;
+    background-color:  white;
+    float: left;
+}
+.N2{
+    height: 100%;
+    width: 65%;
+    background-color:  white;
+    float: left;
+    
+} 
+.N2 h5{
+    margin-top: 50px;
+    
+}
+#NN{
+    height: 60px;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.image{
+    width: 100%;
+    height: 400px;
+    background-image: url('images/Mainpic2\ \(1\).jpg');
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    padding: 35px;
+}
+#Button{
+    height: 42px;
+    width: 130px;
+    background-color: black;
+    color: white;
+    border: 0;
+    border-radius: 4px;
+}
+.cristmas{
+    height: 140px;
+    width: 95%;
+    background-color: white;
+    padding: 35px;
+
+}
+.pic1{
+    height: 170px;
+    width: 22%;
+    background-color: #D1A155;
+    float: left;
+    margin-right: 40px;
+}
+.pic1 img{
+    height: 170px;
+    width: 100%;
+}
+.pic2{
+    height: 170px;
+    width: 22%;
+    background-color: #574c3a;
+    float: left;
+    margin-right: 40px;
+}
+.pic2 img{
+    height: 170px;
+    width: 100%;
+}
+.pic3{
+    height: 170px;
+    width: 22%;
+    background-color: #D1A155;
+    float: left;
+    margin-right: 40px;
+}
+.pic3 img{
+    height: 170px;
+    width: 100%;
+}
+.pic4{
+    height: 170px;
+    width: 22%;
+    background-color: #5a3a05;
+    float: left;
+}
+.pic4 img{
+    height: 170px;
+    width: 100%;
+}
+.price{
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    padding-left: 50px;
+}
+.color{
+    font-weight: 300;
+}
+.color1{
+    font-weight: 400;
+}
+.price1{
+    height: 100%;
+    width: 200px;
+    background-color: white;
+    color: black;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 100px;
+}
+.price2{
+    height: 100%;
+    width: 200px;
+    background-color: white;
+    color: black;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 100px;
+}
+.price3{
+    height: 100%;
+    width: 200px;
+    background-color: white;
+    color: black;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 100px;
+}
+.price4{
+    height: 100%;
+    width: 200px;
+    background-color: white;
+    color: black;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+}
+.cristmas2{
+    width: 95%;
+    height: 120px;
+    background-color: white;
+    padding: 35px;
+}
+.pic5{
+    height: 170px;
+    width: 22%;
+    background-color: #D1A155;
+    float: left;
+    margin-right: 40px;
+}
+.pic5 img{
+    height: 170px;
+    width: 100%;
+}
+.pic6{
+    height: 170px;
+    width: 22%;
+    background-color: #574c3a;
+    float: left;
+    margin-right: 40px;
+}
+.pic6 img{
+    height: 170px;
+    width: 100%;
+}
+.pic7{
+    height: 170px;
+    width: 22%;
+    background-color: #D1A155;
+    float: left;
+    margin-right: 40px;
+}
+.pic7 img{
+    height: 170px;
+    width: 100%;
+}
+.pic8{
+    height: 170px;
+    width: 22%;
+    background-color: #5a3a05;
+    float: left;
+}
+.pic8 img{
+    height: 170px;
+    width: 100%;
+}
+.pricetwo{
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    padding-left: 50px;
+}
+.price5{
+    height: 130px;
+    width: 200px;
+    background-color: white;
+    color: black;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 100px;
+}
+.price6{
+    height: 130px;
+    width: 200px;
+    background-color: white;
+    color: black;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 100px;
+}
+.price7{
+    height: 130px;
+    width: 200px;
+    background-color: white;
+    color: black;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 100px;
+}
+.price8{
+    height: 130px;
+    width: 200px;
+    background-color: white;
+    color: black;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+}
+.space{
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    padding-top:60px;
+    padding-left: 42.5%;
+}
+#underbutton{
+    background-color:black;
+    color: white;
+    height: 60px;
+    width: 150px;
+    border: 0;
+    border-radius: 4px;
+}
+.lastspace{
+    height: 400px;
+    width: 96%;
+    background-color: black;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 50px;
+   
+}
+.spacehead{
+    margin-left: 15px;
+}
+.l1{
+    height: 320px;
+    width: 220px;
+    background-color: black;
+    float: left;
+    margin-right: 20px;
+}
+
+.l1 h4{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+#T1{
+    color:#F6E7BC;
+    font-weight: 400; 
+    margin: 15px;
+
+}
+.l2{
+    height: 320px;
+    width: 200px;
+    background-color:black;
+    float: left;
+    margin-right: 40px;
+}
+.l2 h4{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+#T2{
+    color:#F6E7BC;
+    font-weight: 400;
+    margin: 15px;
+}
+
+.l3{
+    height: 320px;
+    width: 220px;
+    background-color: black;
+    float: left;
+    margin-right: 20px;
+}
+.l3 h4{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+#T3{
+    color:#F6E7BC;
+    font-weight: 400;
+    margin: 15px;
+}
+
+.l4{
+    height: 320px;
+    width: 200px;
+    background-color: black;
+    float: left;
+    margin-right: 40px;
+}
+.l4 h4{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.l5{
+    height: 320px;
+    width: 200px;
+    background-color: black;
+    float: left;
+}
+.l5 h4{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.lastspace hr{
+    margin-top: 390px;
+    color: white;
+    width: 90%;
+    opacity: 0.2;
+
+}
+.leftblack{
+    height: 100px;
+    width: 50%;
+    background-color:black;
+    float: left;
+}
+.rightblack{
+    height: 100px;
+    width: 50%;
+    background-color:black;
+    float: left;
+
+}
+#conclusion{
+    color: rgb(169,184,195) ;
+    margin-top:8%;
+    margin-left: 50px;
+    opacity: 0.4;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+#conclusion2{
+    color: rgb(169,184,195) ;
+    opacity: 0.4;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 8%;
+    margin-left: 70px;
+    font-weight: 500;
+}
